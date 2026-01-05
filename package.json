@@ -4,6 +4,7 @@
 	"description": "Simple boilerplate for js/node apps",
 	"main": "index.js",
 	"scripts": {
+		"lint": "eslint .",
 		"build": "rollup -c",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
