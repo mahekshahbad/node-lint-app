@@ -1,4 +1,4 @@
-name: ESLint PR Check
+name: ESLint PR-Check
 
 on:
   pull_request:
