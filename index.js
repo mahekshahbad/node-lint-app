@@ -2,9 +2,9 @@ import path from 'path';
 
 console.log(path);
 
-function someFunc) {
+function someFunc() {
 	const hello = () => {};
-	hello()
+	hello();
 }
 
 someFunc();
